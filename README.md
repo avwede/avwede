@@ -7,6 +7,8 @@ I am an honors computer science student at the University of Central Florida! He
 - [Devpost](https://devpost.com/avwede?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ### Tools and Technologies 
+[<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+</code>](https://docs.oracle.com/en/java/)
 
 
