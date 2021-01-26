@@ -12,3 +12,5 @@ I am an honors computer science student at the University of Central Florida! He
 [<code><img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"></code>](https://www.python.org/)
 [<code><img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png"></code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code><img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png"></code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<code><img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png"></code>](https://git-scm.com/)
+[<code><img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png"></code>](https://github.com/)
