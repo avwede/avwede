@@ -17,3 +17,9 @@ I am an honors computer science student at the University of Central Florida! He
 [<code><img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png"></code>](https://www.microsoft.com/en-us/windows)
 [<code><img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"></code>](https://ubuntu.com/)
 [<code><img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>](https://www.latex-project.org/)
+
+<a href="https://github.com/avwede">
+<img align="center" alt="Ashley's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avwede&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/avwede">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=avwede&layout=compact&theme=radical" />
+</a>
