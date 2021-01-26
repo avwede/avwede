@@ -4,6 +4,6 @@ I am an honors computer science student at the University of Central Florida! He
 
 ## Find Me Around the Web🌍: 
 - [LinkedIn](https://www.linkedin.com/in/ashleyvoglewede/)
-- [DevPost](https://devpost.com/avwede?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- [Devpost](https://devpost.com/avwede?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 
