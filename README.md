@@ -1,4 +1,4 @@
-## Hi, I'm Ashley 👋👩‍💻
+# Hi, I'm Ashley 👋👩‍💻
 
 I am honors computer science student at the University of Central Florida! Here, you'll find a variety of fun hackathon projects, class assignments, and more.
 
