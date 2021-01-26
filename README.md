@@ -18,6 +18,9 @@ I am an honors computer science student at the University of Central Florida! He
 [<code><img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>](https://www.latex-project.org/)
 [<code><img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" /></code>](https://code.visualstudio.com/)
 
+\
+\
+
 <a href="https://github.com/avwede">
 <img align="center" alt="Ashley's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avwede&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/avwede">
