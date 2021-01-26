@@ -8,6 +8,6 @@ I am an honors computer science student at the University of Central Florida! He
 
 ### Tools and Technologies 
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
+</code>
 
 
