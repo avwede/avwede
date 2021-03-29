@@ -8,7 +8,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=avwede&theme=dracula&title=Commit,PullRequest,Repositories,Followers,Stars"  alt="avwede" />
 </a>
 
+
 - 🌱 I’m currently learning **React**
+- 📫 How to reach me **avwede@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
