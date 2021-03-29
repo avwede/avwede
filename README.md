@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=avwede&label=Profile%20views&color=68bcfd&style=flat" alt="avwede" />
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=avwede&theme=dracula&title=Commit,PullRequest,Repositories,Followers"  alt="avwede" />
+  <img src="https://github-profile-trophy.vercel.app/?username=avwede&theme=dracula&title=Commit,PullRequest,Repositories,Followers,Stars"  alt="avwede" />
 </a>
 
 - 🌱 I’m currently learning **React**
