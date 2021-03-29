@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avwede&label=Profile%20views&color=68bcfd&s&style=flat" alt="avwede" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avwede" alt="avwede" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avwede"&theme=dracula alt="avwede" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
