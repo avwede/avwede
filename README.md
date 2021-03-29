@@ -3,8 +3,10 @@
 <h1 align="center">Hi 👋, I'm Ashley</h1>
 <h3 align="center">I am honors computer science student at the University of Central Florida! Here, you'll find a variety of fun hackathon projects, class assignments, and more.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avwede&label=Profile%20views&color=68bcfd&s&style=flat" alt="avwede" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=avwwede&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://komarev.com/ghpvc/?username=avwede&label=Profile%20views&color=68bcfd&style=flat" alt="avwede" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=avwede&theme=dracula&title=Commit,PullRequest,Repositories" alt="avwede" />
+</a>
 
 - 🌱 I’m currently learning **React**
 
