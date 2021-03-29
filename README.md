@@ -26,10 +26,10 @@
 </p>
 
 
-/**
+<!---
 <a href="https://github.com/avwede">
 <img align="center" alt="Ashley's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avwede&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> 
-*/
+--->
 
 <a href="https://github.com/avwede">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=avwede&layout=compact&theme=radical" />
