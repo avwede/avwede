@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Ashley</h1>
-<h3 align="center">I am honors computer science student at the University of Central Florida! Here, you'll find a variety of fun hackathon projects, class assignments, and more.</h3>
+<!---<h1 align="center">Hi 👋, I'm Ashley</h1>
+<h3 align="center">I am honors computer science student at the University of Central Florida! Here, you'll find a variety of fun hackathon projects, class assignments, and more.</h3>--->
 
 <img src="https://komarev.com/ghpvc/?username=avwede&label=Profile%20views&color=68bcfd&style=flat" alt="avwede" />
 <a href="https://github.com/ryo-ma/github-profile-trophy">
