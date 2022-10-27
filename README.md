@@ -9,8 +9,11 @@
 </a>   
 
 - 🔭 I’m currently working on **[Trill](https://github.com/avwede/trill)**
+
 - 📫 How to reach me: **avwede@gmail.com**
+
 - 🌱 I’m currently learning: **Database Systems**
+
 - 📄 My experience: [Resume](https://www.overleaf.com/read/bhqxspzmxzhj)
 
 <h3 align="left">Connect with me:</h3>
