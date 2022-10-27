@@ -1,13 +1,17 @@
 
 
-<!---<h1 align="center">Hi 👋, I'm Ashley</h1>
-<h3 align="center">I am honors computer science student at the University of Central Florida! Here, you'll find a variety of fun hackathon projects, class assignments, and more.</h3>--->
+<h1 align="center">Hi 👋, I'm Ashley</h1>
+<h3 align="center">STEM Ambassador @ UCF | Previous SWE Intern @ Bloomberg</h3>
 
 <img src="https://komarev.com/ghpvc/?username=avwede&label=Profile%20views&color=68bcfd&style=flat" alt="avwede" />
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=avwede&theme=dracula&title=Commit,PullRequest,Repositories,Followers,Stars"  alt="avwede" />
 </a>   
 
+- 🔭 I’m currently working on **[Trill](https://github.com/avwede/trill)**
+- 📫 How to reach me: **avwede@gmail.com**
+- 🌱 I’m currently learning: **Database Systems**
+- 📄 My experience: [Resume](https://www.overleaf.com/read/bhqxspzmxzhj)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,13 +29,8 @@
 </p>
  -->
 
-<!---
-<a href="https://github.com/avwede">
-<img align="center" alt="Ashley's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avwede&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> 
---->
-<!-- 
+[![Ashley's GitHub stats](https://github-readme-stats.vercel.app/api?username=avwede&show_icons=true&theme=dracula)](https://github.com/avwede)
+
 <a href="https://github.com/avwede">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=avwede&layout=compact&theme=radical" />
 </a>
-
- -->
