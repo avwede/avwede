@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Ashley</h1>
+<h1 align="center">Hi👋, I'm Ashley👩‍💻</h1>
 <h3 align="center">STEM Ambassador @ UCF | Previous SWE Intern @ Bloomberg</h3>
 
 <img src="https://komarev.com/ghpvc/?username=avwede&label=Profile%20views&color=68bcfd&style=flat" alt="avwede" />
@@ -13,8 +13,6 @@
 - 📫 How to reach me: **avwede@gmail.com**
 
 - 🌱 I’m currently learning: **Database Systems**
-
-- 📄 My experience: [Resume](https://www.overleaf.com/read/bhqxspzmxzhj)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
